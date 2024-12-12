@@ -79,7 +79,7 @@ Replace the API endpoint in the `mainfun` function to fetch data from your prefe
 To use a custom font, update the `font-family` property in the CSS:
 ```css
 body {
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Roboto', sans-serif; 
 }
 ```
 
